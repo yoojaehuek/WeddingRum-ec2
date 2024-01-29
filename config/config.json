@@ -2,8 +2,8 @@
   "development": {
     "username": "root",
     "password": "rlawlghks51",
-    "database": "wedingrumDB",
-    "host": "127.0.0.1",
+    "database": "wedingrumdb",
+    "host": "www.i1004902.com",
     "dialect": "mysql"
   },
   "test": {

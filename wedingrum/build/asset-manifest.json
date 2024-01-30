@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d94fa9ea.css",
+    "main.js": "/static/js/main.f4568330.js",
+    "static/js/787.4488e5b3.chunk.js": "/static/js/787.4488e5b3.chunk.js",
+    "static/media/11.jpg": "/static/media/11.b1dcdfc727bb4e503353.jpg",
+    "static/media/4.png": "/static/media/4.58bc723a6e26aef89a1e.png",
+    "static/media/2.png": "/static/media/2.418c9db99a7c01d5994b.png",
+    "static/media/1.png": "/static/media/1.c9225104ede73e09a76c.png",
+    "static/media/15.jpg": "/static/media/15.68675e85ed5daa5afb22.jpg",
+    "static/media/abt5.jpg": "/static/media/abt5.f9b306fe1acd9d191d1e.jpg",
+    "static/media/bride-1255520_1920.jpg": "/static/media/bride-1255520_1920.55676cfed8469be94dd8.jpg",
+    "static/media/3.png": "/static/media/3.ebbe63c490f0fd82c91a.png",
+    "static/media/spaghetti-1932466_1280.jpg": "/static/media/spaghetti-1932466_1280.78b61edc63036733d49b.jpg",
+    "static/media/massage-therapy-1612308_1920.jpg": "/static/media/massage-therapy-1612308_1920.0c09d753902cfee31d35.jpg",
+    "static/media/event-6927353_1280.jpg": "/static/media/event-6927353_1280.92986239088fb365705f.jpg",
+    "static/media/weddings-3225110_1920.jpg": "/static/media/weddings-3225110_1920.0c44b5630d84476422f7.jpg",
+    "static/media/wedding-dresses-1486005_1280.jpg": "/static/media/wedding-dresses-1486005_1280.7acee749d92f431c7327.jpg",
+    "static/media/couple-1850073_1920.jpg": "/static/media/couple-1850073_1920.71fafb324c77f5d37f10.jpg",
+    "static/media/alt2.jpg": "/static/media/alt2.aa3992ee00b6a3aab419.jpg",
+    "static/media/balloons-1046658_1280.jpg": "/static/media/balloons-1046658_1280.7f92e603758d668e49a8.jpg",
+    "static/media/alt4.jpg": "/static/media/alt4.37f76ca917177d51ca5e.jpg",
+    "static/media/alt3.jpg": "/static/media/alt3.173d84a36658cbeabf09.jpg",
+    "static/media/alt1.jpg": "/static/media/alt1.799d9f7219e2deb66915.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.d94fa9ea.css.map": "/static/css/main.d94fa9ea.css.map",
+    "main.f4568330.js.map": "/static/js/main.f4568330.js.map",
+    "787.4488e5b3.chunk.js.map": "/static/js/787.4488e5b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94fa9ea.css",
+    "static/js/main.f4568330.js"
+  ]
+}
